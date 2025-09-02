@@ -32,6 +32,7 @@ public class Array2D_example_2 {
 			}
 			System.out.println();
 		}
+input.close();
 
 
 	}
